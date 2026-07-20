@@ -1,0 +1,11 @@
+venv
+.git
+db.sqlite3
+__pycache__
+*.pyc
+.env
+static
+media
+.pytest_cache
+README.md
+.DS_Store

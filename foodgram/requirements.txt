@@ -1,0 +1,12 @@
+Django
+djangorestframework
+djoser
+Pillow
+psycopg2-binary
+python-dotenv
+gunicorn
+pytest
+pytest-django
+pytest-cov
+factory-boy
+django-filter
