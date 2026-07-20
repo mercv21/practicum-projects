@@ -10,13 +10,13 @@ All projects are fully functional web services with documentation and deployment
 - **[foodgram](foodgram/)** – Recipe platform with subscriptions, favorites, and shopping list  
   *Stack: Django, DRF, PostgreSQL, Docker, CI/CD*
 
-- **[yacut](yacut/)** – Asynchronous URL shortener with Redis caching  
+- **[async-yacut](async-yacut/)** – Asynchronous URL shortener with Redis caching  
   *Stack: FastAPI, SQLAlchemy, PostgreSQL, Redis, Docker Compose*
 
-- **[kittygram](kittygram/)** – Social network for cat owners with image uploads  
+- **[kittygram_final](kittygram_final/)** – Social network for cat owners with image uploads  
   *Stack: Django, DRF, PostgreSQL, Nginx, HTTPS (Let's Encrypt)*
 
-- **[yamdb](yamdb/)** – Reviews API for works (team project)  
+- **[api-yamdb](api-yamdb/)** – Reviews API for works (team project)  
   *Stack: Django, DRF, Simple JWT, PostgreSQL, Pytest*
 
 - **[taski](taski/)** – Task manager adapted for container infrastructure  
